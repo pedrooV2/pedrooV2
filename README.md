@@ -1,4 +1,4 @@
-# Welcome to my Profile 👋, I'm Pedro Lucas
+# Hey Dear 👋, Eu sou o Pedro Lucas
 
 ### Gosto muito de aprender coisas novas e encarar novos Desafios!
 
