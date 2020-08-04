@@ -20,9 +20,9 @@
 ![SQL Badge](https://img.shields.io/badge/-SQL-ced6e0?style=flat-square&labelColor=ced6e0&logo=postgres)
 <br/>
 
-:revolving_hearts: Buscando colaborar com projetos em Front-end usando React
+:revolving_hearts: Buscando colaborar com projetos em Front-end usando React e projetos Back-end usando Node JS
 
-:star: Posso te ajudar com CSS Grid Layout e Flexbox
+:star: Posso te ajudar com CSS3, em questões de Layout Responsivo, Flexbox e CSS Grid
 
 ### Sobre mim: 
 Curto tecnologias, curto games como League of Legends e seriados na Netflix
