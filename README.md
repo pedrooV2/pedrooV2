@@ -1,15 +1,15 @@
-# Hey Dear 👋, Eu sou o Pedro Lucas
+# Hey Dear 👋, I am Pedro Lucas Bezerra
 
-### Gosto muito de aprender coisas novas e encarar novos Desafios!
+### I love to learn new things and face new Challenges!
 
-### :sparkles: Contatos
+### :sparkles: Contacts
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Lucas-ff4757?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lucas-bezerra-6a1550180/)](https://www.linkedin.com/in/pedro-lucas-bezerra-6a1550180/)
 [![Gmail Badge](https://img.shields.io/badge/-pedro.lucas210600@gmail.com-ff4757?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.lucas210600@gmail.com)](mailto:pedro.lucas210600@gmail.com)
 [![CodePen Badge](https://img.shields.io/badge/-Pedro%20Lucas-ff4757?style=flat-square&labelColor=ff4757&logo=codepen&logoColor=white&link=https://codepen.io/pedroov2)](https://codepen.io/pedroov2) 
 
-### :mortar_board: Sou um estudante Universitário 
-* Sistemas para Internet
-* Fatec-Jahu
+### :mortar_board: I'm a college student
+* My course is Internet Systems 
+* At Fatec-Jahu
 
 ### :computer: O que eu estudo:
 ![HTML5 Badge](https://img.shields.io/badge/-HTML5-orange?style=flat-square&labelColor=orange&logo=html5)
@@ -20,12 +20,12 @@
 ![SQL Badge](https://img.shields.io/badge/-SQL-ced6e0?style=flat-square&labelColor=ced6e0&logo=postgres)
 <br/>
 
-:revolving_hearts: Buscando colaborar com projetos em Front-end usando React e projetos Back-end usando Node JS
+:revolving_hearts: I am currently looking to collaborate with Front-end projects using React and Back-end projects using Node JS
 
-:star: Posso te ajudar com CSS3, em questões de Layout Responsivo, Flexbox e CSS Grid
+:star: I can help you with CSS3, Responsive Layout, Flexbox and CSS Grid
 
 ### Sobre mim: 
-Curto tecnologias, curto games como League of Legends e seriados na Netflix
+I like technologies, I love games like League of Legends, Series and Anime.
 
 <!--
 **pedrooV2/pedrooV2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
