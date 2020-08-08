@@ -11,7 +11,7 @@
 * My course is Internet Systems 
 * At Fatec-Jahu
 
-### :computer: What do I study?:
+### :computer: What do I studying?:
 ![HTML5 Badge](https://img.shields.io/badge/-HTML5-orange?style=flat-square&labelColor=orange&logo=html5)
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-blue?style=flat-square&labelColor=blue&logo=css3)
 ![JS Badge](https://img.shields.io/badge/-Java%20Script-f1c40f?style=flat-square&labelColor=f1c40f&logo=javascript)
