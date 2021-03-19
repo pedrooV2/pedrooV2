@@ -1,15 +1,15 @@
-## Hey everyone, sou Pedro Lucas Bezerra.
+## :sparkles: Hey everyone, sou Pedro Lucas Bezerra.
 
 ###  Desenvolvedor apaixonado por tecnologia e inovação.
 
-### :sparkles: Contatos
+###  Contatos
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Lucas-ff4757?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lucas-bezerra-6a1550180/)](https://www.linkedin.com/in/pedro-lucas-bezerra-6a1550180/)
 [![Gmail Badge](https://img.shields.io/badge/-pedro.lucas210600@gmail.com-ff4757?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.lucas210600@gmail.com)](mailto:pedro.lucas210600@gmail.com)
 
 ### :mortar_board: Formação
 * Formado em sistemas para internet na fatec jahu.
 
-### :computer: O que eu gosto de estudar?:
+### :books: O que eu gosto de estudar?:
 ![HTML5 Badge](https://img.shields.io/badge/-HTML5-orange?style=flat-square&labelColor=orange&logo=html5)
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-blue?style=flat-square&labelColor=blue&logo=css3)
 ![JS Badge](https://img.shields.io/badge/-Java%20Script-f1c40f?style=flat-square&labelColor=f1c40f&logo=javascript)
