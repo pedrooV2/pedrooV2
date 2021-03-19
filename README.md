@@ -5,7 +5,6 @@
 ### :sparkles: Contatos
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Lucas-ff4757?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lucas-bezerra-6a1550180/)](https://www.linkedin.com/in/pedro-lucas-bezerra-6a1550180/)
 [![Gmail Badge](https://img.shields.io/badge/-pedro.lucas210600@gmail.com-ff4757?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.lucas210600@gmail.com)](mailto:pedro.lucas210600@gmail.com)
-[![CodePen Badge](https://img.shields.io/badge/-Pedro%20Lucas-ff4757?style=flat-square&labelColor=ff4757&logo=codepen&logoColor=white&link=https://codepen.io/pedroov2)](https://codepen.io/pedroov2) 
 
 ### :mortar_board: Formação
 * Formado em sistemas para internet na fatec jahu.
