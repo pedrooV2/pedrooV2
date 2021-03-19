@@ -1,4 +1,6 @@
-# Hey, sou Pedro Lucas Bezerra. Desenvolvedor apaixonado por tecnologia e inovação.
+## Hey everyone, sou Pedro Lucas Bezerra.
+
+###  Desenvolvedor apaixonado por tecnologia e inovação.
 
 ### :sparkles: Contatos
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Lucas-ff4757?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lucas-bezerra-6a1550180/)](https://www.linkedin.com/in/pedro-lucas-bezerra-6a1550180/)
