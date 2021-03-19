@@ -11,7 +11,7 @@
 ![JS Badge](https://img.shields.io/badge/-Java%20Script-f1c40f?style=flat-square&labelColor=f1c40f&logo=javascript)
 ![React Badge](https://img.shields.io/badge/-React-60a3bc?style=flat-square&labelColor=60a3bc&logo=react)
 ![NodeJS Badge](https://img.shields.io/badge/-Node%20JS-green?style=flat-square&labelColor=green&logo=nodejavascript)
-![C# Badge](https://img.shields.io/badge/-Csharp-purple?style=flat-square&labelColor=purple)
+![C# Badge](https://img.shields.io/badge/-CSharp-purple?style=flat-square&labelColor=purple)
 ![SQL Badge](https://img.shields.io/badge/-SQL-ced6e0?style=flat-square&labelColor=ced6e0&logo=postgres)
 <br/>
 
