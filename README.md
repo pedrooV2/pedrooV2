@@ -18,10 +18,11 @@
 ![SQL Badge](https://img.shields.io/badge/-SQL-ced6e0?style=flat-square&labelColor=ced6e0&logo=postgres)
 <br/>
 
-👾 Atualmente atuo na área de RPA (Robotic Process Automation), utilizando tecnologias como C#, .NET Framework e Postgres. Minha missão é desenvolver automações de alta performance, responsáveis por otimizar rotinas e tarefas para diversos setores da empresa.
+### 👾 Onde vive? O que faz? Do que se alimenta? 
+Atualmente atuo na área de RPA (Robotic Process Automation), utilizando tecnologias como C#, .NET Framework e Postgres. Minha missão é desenvolver automações de alta performance, responsáveis por otimizar rotinas e tarefas para diversos setores da empresa.
 
-### Sobre: 
-💖 Sou um cara muito divertido, otimista e sempre buscando alcançar o próximo nível.
+### 💖 Sobre: 
+ Sou um cara muito divertido, otimista e sempre buscando alcançar o próximo nível.
 
 <!--
 **pedrooV2/pedrooV2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
